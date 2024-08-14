@@ -1172,3 +1172,352 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.14-16.48.38:561][990]Cmd: git status
 [2024.08.14-16.49.07:359][340]LogSlate: Window '查看变更' being destroyed
 [2024.08.14-16.49.07:361][340]LogSlate: Window '查看变更' being destroyed
+[2024.08.14-16.53.37:613][174]LogSlate: Took 0.000067 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2024.08.14-16.53.38:818][312]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Main.Main:PersistentLevel.Main
+[2024.08.14-16.53.38:820][312]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-16.53.38:821][312]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-16.53.38:826][312]LogSlate: Warning: The command 'BlueprintEditorSpawnNodes.AddActorRefAction->CommandInfo' has the same default chord as 'BlueprintEditorSpawnNodes.(Class=/Script/BlueprintGraph.K2Node_Knot Key=R Shift=false Ctrl=false Alt=false)' [R]
+[2024.08.14-16.53.39:229][312]LogSlate: Took 0.000074 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2024.08.14-16.53.39:230][312]LogSlate: Took 0.000363 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2024.08.14-16.54.38:872][957]LogUObjectHash: Compacting FUObjectHashTables data took   0.56ms
+[2024.08.14-16.54.38:873][957]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Projects/Unreal5/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto1.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.08.14-16.54.38:877][957]LogPackageLocalizationCache: Processed 46 localized package path(s) for 2 prioritized culture(s) in 0.004092 seconds
+[2024.08.14-16.54.38:896][957]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto1
+[2024.08.14-16.54.38:896][957]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/Main_Auto1844F3BAF40F55F5A8DD1F2AC9A8C15D2.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto1.umap'
+[2024.08.14-16.54.38:897][957]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/Projects/Unreal5/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto1.umap is in the /Temp path, will not scan.
+[2024.08.14-16.54.38:897][957]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.033
+[2024.08.14-16.54.38:897][957]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.033
+[2024.08.14-16.57.25:803][ 28]BlueprintLog: New page: 折叠到函数
+[2024.08.14-16.58.58:082][ 31]LogD3D12RHI: Warning: Descriptor cache ran out of sub allocated descriptor blocks! Moving to Context local View heap strategy
+[2024.08.14-16.58.58:082][ 31]LogD3D12RHI: This should only happen in the Editor where it doesn't matter as much. If it happens in game you should increase the device global heap size!
+[2024.08.14-16.59.06:458][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-16.59.06:501][ 26]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Projects/Unreal5/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.14-16.59.06:513][ 26]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.08.14-16.59.06:530][ 26]LogSavePackage: Moving output files for package: /Game/Main
+[2024.08.14-16.59.06:530][ 26]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/Main387AA3BA4F55F523E1600399433A1498.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Content/Main.umap'
+[2024.08.14-16.59.06:532][ 26]LogFileHelpers: Saving map 'Main' took 0.031
+[2024.08.14-16.59.06:537][ 26]LogFileHelpers: InternalPromptForCheckoutAndSave took 80 ms
+[2024.08.14-16.59.06:538][ 26]AssetCheck: New page: 资产保存：Main
+[2024.08.14-16.59.06:538][ 26]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Main.Main
+[2024.08.14-17.03.11:861][799]LogD3D12RHI: OnlineHeap RollOver Detected. Increase the heap size to prevent creation of additional heaps
+[2024.08.14-17.03.14:072][ 56]BlueprintLog: New page: 折叠到函数
+[2024.08.14-17.03.30:506][  4]BlueprintLog: New page: 折叠到函数
+[2024.08.14-17.09.06:537][993]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2024.08.14-17.09.06:538][993]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Projects/Unreal5/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto2.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.08.14-17.09.06:556][993]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto2
+[2024.08.14-17.09.06:556][993]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/Main_Auto2AA4470144B0F2AF30E71C480DB3406D9.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto2.umap'
+[2024.08.14-17.09.06:556][993]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/Projects/Unreal5/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto2.umap is in the /Temp path, will not scan.
+[2024.08.14-17.09.06:556][993]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.029
+[2024.08.14-17.09.06:556][993]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.029
+[2024.08.14-17.44.20:988][547]LogDerivedDataCache: C:/Users/Windows11/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:00.032 and deleted 0 files with total size 0 MiB and 127 empty folders. Scanned 499 files in 1051 folders with total size 20 MiB.
+[2024.08.14-17.51.35:566][925]LogSlate: Took 0.000409 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2024.08.14-17.53.19:619][568]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2024.08.14-17.53.19:622][568]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Projects/Unreal5/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto3.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.08.14-17.53.19:640][568]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto3
+[2024.08.14-17.53.19:640][568]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/Main_Auto3B2B93ED147D082BBC436929F5E8D6C78.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto3.umap'
+[2024.08.14-17.53.19:640][568]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/Projects/Unreal5/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto3.umap is in the /Temp path, will not scan.
+[2024.08.14-17.53.19:640][568]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Main_Auto3 is in the /Temp path, will not scan.
+[2024.08.14-17.53.19:640][568]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Main_Auto3 is in the /Temp path, will not scan.
+[2024.08.14-17.53.19:640][568]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.026
+[2024.08.14-17.53.19:640][568]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
+[2024.08.14-17.55.36:027][827]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-17.55.36:060][827]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Projects/Unreal5/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.14-17.55.36:071][827]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.08.14-17.55.36:091][827]LogSavePackage: Moving output files for package: /Game/Main
+[2024.08.14-17.55.36:091][827]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/Main8A2C09C54635B1E5158076B5E102B111.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Content/Main.umap'
+[2024.08.14-17.55.36:093][827]LogFileHelpers: Saving map 'Main' took 0.034
+[2024.08.14-17.55.36:097][827]LogFileHelpers: InternalPromptForCheckoutAndSave took 70 ms (total: 151 ms)
+[2024.08.14-17.55.36:098][827]AssetCheck: New page: 资产保存：Main
+[2024.08.14-17.55.36:098][827]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Main.Main
+[2024.08.14-17.55.40:962][384]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2024.08.14-17.55.40:965][384]BlueprintLog: New page: 运行前自动重新编译
+[2024.08.14-17.55.40:966][384]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2024.08.14-17.55.40:982][384]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.08.14-17.55.40:983][384]LogPlayLevel: PlayLevel: Blueprint regeneration took 17 ms (1 blueprints)
+[2024.08.14-17.55.40:983][384]PIE: New page: PIE会话：Main（2024年8月14日 下午9:55:40）
+[2024.08.14-17.55.40:984][384]LogPlayLevel: Display: Creating online subsystem for client :Context_4
+[2024.08.14-17.55.40:986][384]LogOnline: OSS: Created online subsystem instance for: :Context_4
+[2024.08.14-17.55.40:993][385]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.08.14-17.55.40:998][385]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005602s)
+[2024.08.14-17.55.40:998][385]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.005634s)
+[2024.08.14-17.55.41:003][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.08.14-17.55.41:004][385]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-17.55.41:004][385]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-17.55.41:004][385]LogAIModule: Creating AISystem for world Main
+[2024.08.14-17.55.41:004][385]LogPlayLevel: PIE: World Init took: (0.000735s)
+[2024.08.14-17.55.41:005][385]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2024.08.14-17.55.41:005][385]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.14-17.55.41:005][385]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.14-17.55.41:005][385]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.14-17.55.41:005][385]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.14-17.55.41:005][385]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.14-17.55.41:005][385]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.14-17.55.41:005][385]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.14-17.55.41:005][385]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.14-17.55.41:005][385]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.14-17.55.41:005][385]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.14-17.55.41:005][385]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.14-17.55.41:006][385]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.14-17.55.41:016][385]LogAudioMixer: Display: Using Audio Hardware Device C27R50x (NVIDIA High Definition Audio)
+[2024.08.14-17.55.41:016][385]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.14-17.55.41:016][385]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.14-17.55.41:016][385]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.14-17.55.41:017][385]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2024.08.14-17.55.41:017][385]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2024.08.14-17.55.41:018][385]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2024.08.14-17.55.41:018][385]LogInit: FAudioDevice initialized with ID 2.
+[2024.08.14-17.55.41:018][385]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2024.08.14-17.55.41:018][385]LogAudio: Display: Audio Device (ID: 2) registered with world 'Main'.
+[2024.08.14-17.55.41:018][385]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 2
+[2024.08.14-17.55.41:020][385]LogLoad: Game class is 'GameModeBase'
+[2024.08.14-17.55.41:022][385]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.08.14-19.55.41
+[2024.08.14-17.55.41:022][385]LogWorld: Bringing up level for play took: 0.002321
+[2024.08.14-17.55.41:027][385]PIE: 登陆的服务器
+[2024.08.14-17.55.41:028][385]PIE: PIE总开始时间：0.063秒。
+[2024.08.14-17.55.43:136][631]LogBlueprintUserMessages: [Main_C_1] 19
+[2024.08.14-17.55.43:484][673]LogBlueprintUserMessages: [Main_C_1] 18
+[2024.08.14-17.55.43:768][707]LogBlueprintUserMessages: [Main_C_1] 17
+[2024.08.14-17.55.43:943][728]LogBlueprintUserMessages: [Main_C_1] 16
+[2024.08.14-17.55.44:126][750]LogBlueprintUserMessages: [Main_C_1] 15
+[2024.08.14-17.55.44:301][771]LogBlueprintUserMessages: [Main_C_1] 14
+[2024.08.14-17.55.44:484][793]LogBlueprintUserMessages: [Main_C_1] 13
+[2024.08.14-17.55.44:684][817]LogBlueprintUserMessages: [Main_C_1] 12
+[2024.08.14-17.55.44:884][841]LogBlueprintUserMessages: [Main_C_1] 11
+[2024.08.14-17.55.45:084][865]LogBlueprintUserMessages: [Main_C_1] 10
+[2024.08.14-17.55.45:392][902]LogBlueprintUserMessages: [Main_C_1] 9
+[2024.08.14-17.55.45:626][930]LogBlueprintUserMessages: [Main_C_1] 8
+[2024.08.14-17.55.45:827][954]LogBlueprintUserMessages: [Main_C_1] 7
+[2024.08.14-17.55.46:084][985]LogBlueprintUserMessages: [Main_C_1] 6
+[2024.08.14-17.55.46:267][  7]LogBlueprintUserMessages: [Main_C_1] 5
+[2024.08.14-17.55.46:793][ 70]LogBlueprintUserMessages: [Main_C_1] 4
+[2024.08.14-17.55.47:867][199]LogBlueprintUserMessages: [Main_C_1] 3
+[2024.08.14-17.55.48:142][232]LogBlueprintUserMessages: [Main_C_1] 2
+[2024.08.14-17.55.48:351][257]LogBlueprintUserMessages: [Main_C_1] 1
+[2024.08.14-17.55.48:534][279]LogBlueprintUserMessages: [Main_C_1] 0
+[2024.08.14-17.55.48:717][301]LogBlueprintUserMessages: [Main_C_1] Out of ammo
+[2024.08.14-17.55.48:900][323]LogBlueprintUserMessages: [Main_C_1] Out of ammo
+[2024.08.14-17.55.49:100][347]LogBlueprintUserMessages: [Main_C_1] Out of ammo
+[2024.08.14-17.55.49:409][384]LogBlueprintUserMessages: [Main_C_1] Out of ammo
+[2024.08.14-17.55.49:642][412]LogBlueprintUserMessages: [Main_C_1] Out of ammo
+[2024.08.14-17.55.58:150][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.14-17.55.58:151][429]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.08.14-17.55.58:151][429]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-17.55.58:151][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-17.55.58:154][429]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.14-17.55.58:156][429]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-17.55.58:160][429]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.14-17.55.58:160][429]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 2
+[2024.08.14-17.55.58:160][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.08.14-17.55.58:162][429]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2024.08.14-17.55.58:164][429]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.14-17.55.58:166][429]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2024.08.14-17.55.58:222][434]LogPlayLevel: Display: Destroying online subsystem :Context_4
+[2024.08.14-18.03.11:433][671]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-18.03.11:489][671]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Projects/Unreal5/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.14-18.03.11:501][671]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.08.14-18.03.11:521][671]LogSavePackage: Moving output files for package: /Game/Main
+[2024.08.14-18.03.11:521][671]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/MainE5002D1E4EB2BEAEA8F09595A1E59D4E.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Content/Main.umap'
+[2024.08.14-18.03.11:523][671]LogFileHelpers: Saving map 'Main' took 0.034
+[2024.08.14-18.03.11:527][671]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 244 ms)
+[2024.08.14-18.03.11:528][671]AssetCheck: New page: 资产保存：Main
+[2024.08.14-18.03.11:528][671]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Main.Main
+[2024.08.14-18.12.08:780][515]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Projectile.BP_Projectile
+[2024.08.14-18.12.08:780][515]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-18.12.08:780][515]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-18.12.08:862][516]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-18.12.08:885][517]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-18.12.20:614][910]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-18.12.20:614][910]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-18.12.20:620][910]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Projectile.BP_Projectile
+[2024.08.14-18.12.20:621][910]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-18.12.20:621][910]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-18.13.43:524][778]BlueprintLog: New page: 编译BP_Projectile
+[2024.08.14-18.13.43:529][778]LogBlueprint: Error: [AssetLog] E:\Projects\Unreal5\WarehouseWreckage\Content\BP_Projectile.uasset: [Compiler] 变量节点 Get StaticMeshComponent 使用一个无效的目标。它可能依赖于一个没有连接到执行链上且已被清除的节点。
+[2024.08.14-18.13.43:541][778]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2024.08.14-18.14.03:949][157]BlueprintLog: New page: 编译BP_Projectile
+[2024.08.14-18.14.03:960][157]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2024.08.14-18.15.07:356][630]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2024.08.14-18.15.07:359][630]BlueprintLog: New page: 运行前自动重新编译
+[2024.08.14-18.15.07:364][630]LogPlayLevel: [PlayLevel] Compiling BP_Projectile before play...
+[2024.08.14-18.15.07:375][630]LogPlayLevel: [PlayLevel] Compiling Main before play...
+[2024.08.14-18.15.07:388][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.65ms
+[2024.08.14-18.15.07:389][630]LogPlayLevel: PlayLevel: Blueprint regeneration took 30 ms (2 blueprints)
+[2024.08.14-18.15.07:389][630]PIE: New page: PIE会话：Main（2024年8月14日 下午10:15:07）
+[2024.08.14-18.15.07:389][630]LogPlayLevel: Display: Creating online subsystem for client :Context_9
+[2024.08.14-18.15.07:391][630]LogOnline: OSS: Created online subsystem instance for: :Context_9
+[2024.08.14-18.15.07:398][631]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.08.14-18.15.07:404][631]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005531s)
+[2024.08.14-18.15.07:404][631]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.005561s)
+[2024.08.14-18.15.07:412][631]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.08.14-18.15.07:412][631]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-18.15.07:413][631]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-18.15.07:413][631]LogAIModule: Creating AISystem for world Main
+[2024.08.14-18.15.07:413][631]LogPlayLevel: PIE: World Init took: (0.000669s)
+[2024.08.14-18.15.07:413][631]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2024.08.14-18.15.07:413][631]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.14-18.15.07:413][631]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.14-18.15.07:413][631]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.14-18.15.07:413][631]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.14-18.15.07:413][631]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.14-18.15.07:413][631]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.14-18.15.07:413][631]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.14-18.15.07:413][631]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.14-18.15.07:413][631]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.14-18.15.07:413][631]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.14-18.15.07:413][631]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.14-18.15.07:415][631]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.14-18.15.07:425][631]LogAudioMixer: Display: Using Audio Hardware Device C27R50x (NVIDIA High Definition Audio)
+[2024.08.14-18.15.07:425][631]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.14-18.15.07:425][631]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.14-18.15.07:425][631]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.14-18.15.07:425][631]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2024.08.14-18.15.07:425][631]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2024.08.14-18.15.07:426][631]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2024.08.14-18.15.07:426][631]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2024.08.14-18.15.07:426][631]LogInit: FAudioDevice initialized with ID 3.
+[2024.08.14-18.15.07:426][631]LogAudio: Display: Audio Device (ID: 3) registered with world 'Main'.
+[2024.08.14-18.15.07:426][631]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 3
+[2024.08.14-18.15.07:428][631]LogLoad: Game class is 'GameModeBase'
+[2024.08.14-18.15.07:429][631]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.08.14-20.15.07
+[2024.08.14-18.15.07:429][631]LogWorld: Bringing up level for play took: 0.001448
+[2024.08.14-18.15.07:430][631]PIE: 登陆的服务器
+[2024.08.14-18.15.07:431][631]PIE: PIE总开始时间：0.072秒。
+[2024.08.14-18.15.09:428][865]LogBlueprintUserMessages: [Main_C_2] 19
+[2024.08.14-18.15.09:779][907]LogBlueprintUserMessages: [Main_C_2] 18
+[2024.08.14-18.15.09:970][930]LogBlueprintUserMessages: [Main_C_2] 17
+[2024.08.14-18.15.10:162][953]LogBlueprintUserMessages: [Main_C_2] 16
+[2024.08.14-18.15.10:320][972]LogBlueprintUserMessages: [Main_C_2] 15
+[2024.08.14-18.15.10:520][996]LogBlueprintUserMessages: [Main_C_2] 14
+[2024.08.14-18.15.10:687][ 16]LogBlueprintUserMessages: [Main_C_2] 13
+[2024.08.14-18.15.10:845][ 35]LogBlueprintUserMessages: [Main_C_2] 12
+[2024.08.14-18.15.11:003][ 54]LogBlueprintUserMessages: [Main_C_2] 11
+[2024.08.14-18.15.11:153][ 72]LogBlueprintUserMessages: [Main_C_2] 10
+[2024.08.14-18.15.11:312][ 91]LogBlueprintUserMessages: [Main_C_2] 9
+[2024.08.14-18.15.11:470][110]LogBlueprintUserMessages: [Main_C_2] 8
+[2024.08.14-18.15.11:628][129]LogBlueprintUserMessages: [Main_C_2] 7
+[2024.08.14-18.15.11:786][148]LogBlueprintUserMessages: [Main_C_2] 6
+[2024.08.14-18.15.11:944][167]LogBlueprintUserMessages: [Main_C_2] 5
+[2024.08.14-18.15.12:086][184]LogBlueprintUserMessages: [Main_C_2] 4
+[2024.08.14-18.15.12:253][204]LogBlueprintUserMessages: [Main_C_2] 3
+[2024.08.14-18.15.12:394][221]LogBlueprintUserMessages: [Main_C_2] 2
+[2024.08.14-18.15.12:569][242]LogBlueprintUserMessages: [Main_C_2] 1
+[2024.08.14-18.15.12:753][264]LogBlueprintUserMessages: [Main_C_2] 0
+[2024.08.14-18.15.13:144][311]LogBlueprintUserMessages: [Main_C_2] Out of ammo
+[2024.08.14-18.15.13:361][337]LogBlueprintUserMessages: [Main_C_2] Out of ammo
+[2024.08.14-18.15.16:476][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.14-18.15.16:476][707]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.08.14-18.15.16:476][707]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-18.15.16:477][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-18.15.16:479][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.14-18.15.16:481][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-18.15.16:488][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2024.08.14-18.15.16:488][707]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 3
+[2024.08.14-18.15.16:488][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.08.14-18.15.16:489][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2024.08.14-18.15.16:492][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.14-18.15.16:493][707]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2024.08.14-18.15.16:547][712]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2024.08.14-18.15.19:686][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-18.15.19:711][ 81]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Projects/Unreal5/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.14-18.15.19:722][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.57ms
+[2024.08.14-18.15.19:740][ 81]LogSavePackage: Moving output files for package: /Game/Main
+[2024.08.14-18.15.19:740][ 81]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/Main5FFCC5E74DF1B4E1F7F4C9A445C5406D.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Content/Main.umap'
+[2024.08.14-18.15.19:742][ 81]LogFileHelpers: Saving map 'Main' took 0.031
+[2024.08.14-18.15.19:746][ 81]LogFileHelpers: InternalPromptForCheckoutAndSave took 58 ms (total: 303 ms)
+[2024.08.14-18.15.19:747][ 81]AssetCheck: New page: 资产保存：Main
+[2024.08.14-18.15.19:747][ 81]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Main.Main
+[2024.08.14-18.15.21:952][331]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-18.15.22:028][331]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-18.15.22:043][331]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="E:/Projects/Unreal5/WarehouseWreckage/Content/BP_Projectile.uasset" SILENT=true
+[2024.08.14-18.15.22:048][331]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.08.14-18.15.22:048][331]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/BP_Projectile6060696D45C3E84EBF5C469329BD4C92.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Content/BP_Projectile.uasset'
+[2024.08.14-18.15.22:052][331]LogFileHelpers: InternalPromptForCheckoutAndSave took 100 ms (total: 403 ms)
+[2024.08.14-18.15.22:052][331]AssetCheck: New page: 资产保存：BP_Projectile
+[2024.08.14-18.15.22:052][331]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2024.08.14-18.15.53:341][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-18.15.53:395][ 79]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="E:/Projects/Unreal5/WarehouseWreckage/Content/BP_Projectile.uasset" SILENT=true
+[2024.08.14-18.15.53:398][ 79]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.08.14-18.15.53:398][ 79]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/BP_Projectile65A08A9A4EFF5709B524998C516EB905.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Content/BP_Projectile.uasset'
+[2024.08.14-18.15.53:401][ 79]LogFileHelpers: InternalPromptForCheckoutAndSave took 59 ms (total: 463 ms)
+[2024.08.14-18.15.53:401][ 79]AssetCheck: New page: 资产保存：BP_Projectile
+[2024.08.14-18.15.53:401][ 79]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2024.08.14-18.15.55:733][345]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-18.15.55:778][345]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="E:/Projects/Unreal5/WarehouseWreckage/Content/BP_Projectile.uasset" SILENT=true
+[2024.08.14-18.15.55:780][345]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.08.14-18.15.55:780][345]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/BP_Projectile1301AE5A4A1AF2959D2992ABD395EFCB.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Content/BP_Projectile.uasset'
+[2024.08.14-18.15.55:784][345]LogFileHelpers: InternalPromptForCheckoutAndSave took 51 ms (total: 514 ms)
+[2024.08.14-18.15.55:784][345]AssetCheck: New page: 资产保存：BP_Projectile
+[2024.08.14-18.15.55:784][345]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2024.08.14-18.16.04:564][369]LogDebuggerCommands: Repeating last play command: 选中的视口
+[2024.08.14-18.16.04:566][369]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2024.08.14-18.16.04:566][369]PIE: New page: PIE会话：Main（2024年8月14日 下午10:16:04）
+[2024.08.14-18.16.04:605][369]LogPlayLevel: Display: Creating online subsystem for client :Context_11
+[2024.08.14-18.16.04:607][369]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2024.08.14-18.16.04:612][370]LogPlayLevel: Creating play world package: /Game/UEDPIE_0_Main
+[2024.08.14-18.16.04:618][370]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005388s)
+[2024.08.14-18.16.04:618][370]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Main.Main to /Game/UEDPIE_0_Main.Main (0.005414s)
+[2024.08.14-18.16.04:623][370]LogUObjectHash: Compacting FUObjectHashTables data took   0.75ms
+[2024.08.14-18.16.04:625][370]LogWorldSubsystemInput: UEnhancedInputDeveloperSettings::bEnableWorldSubsystem is false, the world subsystem will not be created!
+[2024.08.14-18.16.04:625][370]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2024.08.14-18.16.04:625][370]LogAIModule: Creating AISystem for world Main
+[2024.08.14-18.16.04:625][370]LogPlayLevel: PIE: World Init took: (0.000628s)
+[2024.08.14-18.16.04:625][370]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2024.08.14-18.16.04:625][370]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2024.08.14-18.16.04:625][370]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2024.08.14-18.16.04:625][370]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2024.08.14-18.16.04:625][370]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2024.08.14-18.16.04:625][370]LogAudioMixer: Display: 	Number of buffers to queue:			  1
+[2024.08.14-18.16.04:625][370]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2024.08.14-18.16.04:625][370]LogAudioMixer: Display: 	Number of Async Source Workers:		  4
+[2024.08.14-18.16.04:625][370]LogAudio: Display: AudioDevice MaxSources: 32
+[2024.08.14-18.16.04:626][370]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2024.08.14-18.16.04:626][370]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2024.08.14-18.16.04:626][370]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2024.08.14-18.16.04:627][370]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2024.08.14-18.16.04:636][370]LogAudioMixer: Display: Using Audio Hardware Device C27R50x (NVIDIA High Definition Audio)
+[2024.08.14-18.16.04:636][370]LogAudioMixer: Display: Initializing Sound Submixes...
+[2024.08.14-18.16.04:636][370]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2024.08.14-18.16.04:636][370]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2024.08.14-18.16.04:637][370]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2024.08.14-18.16.04:637][370]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2024.08.14-18.16.04:637][370]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2024.08.14-18.16.04:638][370]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2024.08.14-18.16.04:638][370]LogInit: FAudioDevice initialized with ID 4.
+[2024.08.14-18.16.04:638][370]LogAudio: Display: Audio Device (ID: 4) registered with world 'Main'.
+[2024.08.14-18.16.04:638][370]LogAudioMixer: Initializing Audio Bus Subsystem for audio device with ID 4
+[2024.08.14-18.16.04:639][370]LogLoad: Game class is 'GameModeBase'
+[2024.08.14-18.16.04:640][370]LogWorld: Bringing World /Game/UEDPIE_0_Main.Main up for play (max tick rate 0) at 2024.08.14-20.16.04
+[2024.08.14-18.16.04:641][370]LogWorld: Bringing up level for play took: 0.001523
+[2024.08.14-18.16.04:641][370]PIE: 登陆的服务器
+[2024.08.14-18.16.04:642][370]PIE: PIE总开始时间：0.076秒。
+[2024.08.14-18.16.06:596][599]LogBlueprintUserMessages: [Main_C_2] 19
+[2024.08.14-18.16.09:022][890]LogBlueprintUserMessages: [Main_C_2] 18
+[2024.08.14-18.16.09:180][909]LogBlueprintUserMessages: [Main_C_2] 17
+[2024.08.14-18.16.10:636][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.14-18.16.10:636][ 81]LogWorld: BeginTearingDown for /Game/UEDPIE_0_Main
+[2024.08.14-18.16.10:636][ 81]LogWorld: UWorld::CleanupWorld for Main, bSessionEnded=true, bCleanupResources=true
+[2024.08.14-18.16.10:636][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-18.16.10:638][ 81]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2024.08.14-18.16.10:640][ 81]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2024.08.14-18.16.10:647][ 81]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2024.08.14-18.16.10:648][ 81]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID 4
+[2024.08.14-18.16.10:648][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.08.14-18.16.10:649][ 81]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2024.08.14-18.16.10:653][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2024.08.14-18.16.10:716][ 87]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2024.08.14-18.20.31:943][200]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-18.20.32:029][200]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Projectile" FILE="E:/Projects/Unreal5/WarehouseWreckage/Content/BP_Projectile.uasset" SILENT=true
+[2024.08.14-18.20.32:032][200]LogSavePackage: Moving output files for package: /Game/BP_Projectile
+[2024.08.14-18.20.32:032][200]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/BP_Projectile1B279AE2446F6BDEE74E518204CD9E65.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Content/BP_Projectile.uasset'
+[2024.08.14-18.20.32:036][200]LogFileHelpers: InternalPromptForCheckoutAndSave took 93 ms (total: 607 ms)
+[2024.08.14-18.20.32:037][200]AssetCheck: New page: 资产保存：BP_Projectile
+[2024.08.14-18.20.32:037][200]LogContentValidation: Display: 正在验证/Script/Engine.Blueprint /Game/BP_Projectile.BP_Projectile
+[2024.08.14-18.20.33:433][360]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2024.08.14-18.20.33:492][360]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Projects/Unreal5/WarehouseWreckage/Content/Main.umap" SILENT=true AUTOSAVING=false KEEPDIRTY=false
+[2024.08.14-18.20.33:506][360]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2024.08.14-18.20.33:525][360]LogSavePackage: Moving output files for package: /Game/Main
+[2024.08.14-18.20.33:525][360]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/Main44306C834A38B3A5F069578EE009BE2E.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Content/Main.umap'
+[2024.08.14-18.20.33:527][360]LogFileHelpers: Saving map 'Main' took 0.034
+[2024.08.14-18.20.33:531][360]LogFileHelpers: InternalPromptForCheckoutAndSave took 96 ms (total: 704 ms)
+[2024.08.14-18.20.33:531][360]AssetCheck: New page: 资产保存：Main
+[2024.08.14-18.20.33:531][360]LogContentValidation: Display: 正在验证/Script/Engine.World /Game/Main.Main
