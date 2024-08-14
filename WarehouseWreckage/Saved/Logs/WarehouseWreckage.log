@@ -1528,3 +1528,12 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2024.08.14-18.27.34:773][785]LogSlate: Window '消息日志' being destroyed
 [2024.08.14-18.27.34:776][785]LogSlate: Window '消息日志' being destroyed
 [2024.08.14-18.27.54:378][212]BlueprintLog: New page: 折叠到函数
+[2024.08.14-18.30.33:876][375]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2024.08.14-18.30.33:877][375]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Main" FILE="E:/Projects/Unreal5/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto4.umap" SILENT=true AUTOSAVING=true KEEPDIRTY=false
+[2024.08.14-18.30.33:895][375]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Main_Auto4
+[2024.08.14-18.30.33:895][375]LogSavePackage: Moving 'E:/Projects/Unreal5/WarehouseWreckage/Saved/Main_Auto4FE3024E44897E8E1BB4FA7AEA60730FC.tmp' to 'E:/Projects/Unreal5/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto4.umap'
+[2024.08.14-18.30.33:896][375]LogAssetRegistry: Warning: ScanPathsSynchronous: E:/Projects/Unreal5/WarehouseWreckage/Saved/Autosaves/Game/Main_Auto4.umap is in the /Temp path, will not scan.
+[2024.08.14-18.30.33:896][375]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalActors__/Autosaves/Game/Main_Auto4 is in the /Temp path, will not scan.
+[2024.08.14-18.30.33:896][375]LogAssetRegistry: Warning: ScanPathsSynchronous: /Temp/__ExternalObjects__/Autosaves/Game/Main_Auto4 is in the /Temp path, will not scan.
+[2024.08.14-18.30.33:896][375]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Main' took 0.026
+[2024.08.14-18.30.33:896][375]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.026
